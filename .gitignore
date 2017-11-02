@@ -1,0 +1,8 @@
+*.nupkg
+obj
+bin
+Logs
+.vs
+.idea
+lib
+!/packages/*/lib
