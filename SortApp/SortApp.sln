@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble", "Bubble\Bubble.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StraightInsert", "StraightInsert\StraightInsert.csproj", "{01C1B412-B963-4DA2-99BE-5CA5A912BA93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexityTime", "ComplexityTime\ComplexityTime.csproj", "{B2D672CC-1A27-478E-99F0-FF0AC1CC16AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellSort", "ShellSort\ShellSort.csproj", "{22CC47F4-7939-4869-B720-0B34D7E956C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{01C1B412-B963-4DA2-99BE-5CA5A912BA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01C1B412-B963-4DA2-99BE-5CA5A912BA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01C1B412-B963-4DA2-99BE-5CA5A912BA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D672CC-1A27-478E-99F0-FF0AC1CC16AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D672CC-1A27-478E-99F0-FF0AC1CC16AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D672CC-1A27-478E-99F0-FF0AC1CC16AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D672CC-1A27-478E-99F0-FF0AC1CC16AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CC47F4-7939-4869-B720-0B34D7E956C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CC47F4-7939-4869-B720-0B34D7E956C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CC47F4-7939-4869-B720-0B34D7E956C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CC47F4-7939-4869-B720-0B34D7E956C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
